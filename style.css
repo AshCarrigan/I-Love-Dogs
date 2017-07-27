@@ -1,1 +1,18 @@
- s
+h1, h2
+{
+  color: red
+}
+
+body
+{
+	font-family: helvetica, arial, sans-serif;
+  color: #575757;
+	min-height: 1600px;
+  padding: 10px;
+
+}
+
+h1
+{
+  text-align:center;
+}
